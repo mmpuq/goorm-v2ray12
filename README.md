@@ -13,3 +13,6 @@ chmod +x gcpcloud.sh
 ./gcpcloud.sh
 ```
 wget --no-check-certificate -O goormv2.sh https://raw.githubusercontent.com/mmppq/goorm-v2ray12/master/goormv2.sh && chmod +x goormv2.sh  && ./goormv2.sh
+
+
+wget --no-check-certificate -O goormv2.sh https://raw.githubusercontent.com/mmpuq/goorm-v2ray12/master/goormv2.sh && chmod +x goormv2.sh  && ./goormv2.sh
